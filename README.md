@@ -24,7 +24,7 @@ A modern boilerplate project built with Vite, React, and Tailwind CSS.
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mehul773/vite-react-tailwind-boilerplate.git
 cd vite-react-tailwind-boilerplate
 ```
 
